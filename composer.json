@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "ajeeq/ims",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Laravel Web Application with basic CRUD operations",
     "keywords": [
         "framework",
         "laravel"
